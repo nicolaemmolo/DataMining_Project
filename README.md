@@ -13,15 +13,23 @@ The analysis uses two main datasets comprising professional cycling races spanni
 
 The project follows the complete Data Mining pipeline, exploring everything from initial data cleaning and dimensionality reduction to advanced clustering, classification models, and explainability techniques.
 
+
 ## Project Structure
 
 The repository is structured around the 5 main tasks specified in the assignment, along with supporting directories for data and utility functions:
 
 * **`data/`**: Contains the raw and processed datasets (Cyclists and Races) used throughout the experiments. *(Note: ensure data is unzipped here before running the notebooks)*.
 * **`src/`**: Contains a single `utils.py` file with general-purpose helper functions used across multiple notebooks to avoid code duplication.
-* **`TASK1`**: Focuses on exploring data distributions, handling missing values, outlier detection (e.g., using Isolation Forest), feature engineering, and dimensionality reduction (PCA and UMAP).
-* **`TASK2`**: Applies unsupervised learning algorithms such as K-Means, DBSCAN, and Hierarchical Clustering to group similar cyclists and race profiles.
-* **`TASK3`**: Trains and evaluates predictive models to classify race outcomes or cyclist performances.
-* **`TASK4`**: Extracts frequent itemsets and association rules to find interesting relationships between race features and cyclist attributes.
-* **`TASK5`**: Uses explainable AI (XAI) techniques to interpret the decisions made by the classification models and understand the most impactful features.
+* **`TASK1/`**: Focuses on exploring data distributions, handling missing values, outlier detection (e.g., using Isolation Forest), feature engineering, and dimensionality reduction (PCA and UMAP).
+* **`TASK2/`**: Applies unsupervised learning algorithms such as K-Means, DBSCAN, and Hierarchical Clustering to group similar cyclists and race profiles.
+* **`TASK3/`**: Trains and evaluates predictive models to classify race outcomes or cyclist performances.
+* **`TASK4/`**: Extracts frequent itemsets and association rules to find interesting relationships between race features and cyclist attributes.
+* **`TASK5/`**: Uses explainable AI (XAI) techniques to interpret the decisions made by the classification models and understand the most impactful features.
 * **`report.pdf`**: The final comprehensive report detailing the methodology, experiments, and conclusions of the project.
+
+
+## Authors
+
+*
+*
+*

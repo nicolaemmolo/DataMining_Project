@@ -29,7 +29,6 @@ The repository is structured around the 5 main tasks specified in the assignment
 
 
 ## Authors
-
-*
-*
-*
+[Simone Marzeddu](https://github.com/SimoneMarzeddu) \
+[Nicola Emmolo](https://github.com/nicolaemmolo) \
+[Jacopo Raffi](https://github.com/JacopoRaffi) 
